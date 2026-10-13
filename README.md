@@ -1,3 +1,5 @@
+[![Java CI with Maven](https://github.com/szpatrik0711/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/szpatrik0711/se-lab/actions/workflows/maven.yml)
+
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
@@ -39,4 +41,3 @@ The project represents an alpha version of a spaceship.
 
 The code can be built, but due to missing features one of the tests fails. The first exercise will be to fix this.
 
-[![Java CI with Maven](https://github.com/szpatrik0711/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/szpatrik0711/se-lab/actions/workflows/maven.yml)
